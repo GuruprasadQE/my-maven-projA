@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BMI Application" parallel="classes">
+    <test name="BMI FFT">
+        <classes>
+            <class name="testA.TestBrowserType"/>
+            <class name="testA.TestAssertsExample"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

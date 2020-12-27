@@ -1,0 +1,19 @@
+{
+  "firstName": "Guru",
+  "lastName": "Prasad",
+  "email": "guru123",
+  "address": {
+    "street": "Arekere",
+    "pincode": "123",
+    "houses": [
+      {
+        "houseNumber": "5443",
+        "houseOwner": "Kiran"
+      },
+      {
+        "houseNumber": "8766",
+        "houseOwner": "Karan"
+      }
+    ]
+  }
+}
